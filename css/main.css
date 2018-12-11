@@ -1,0 +1,18 @@
+.slider.btn {
+  margin-top: 20px;
+}
+
+.section-search input {
+  padding: 5px !important;
+  font-size: 30px !important;
+  color: grey;
+  border-radius: 10px;
+}
+
+.section-follow .fa-4x {
+  margin: 15px;
+}
+
+.btn {
+  margin-top: 10px;
+}
